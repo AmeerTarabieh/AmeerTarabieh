@@ -1,7 +1,1 @@
--Hello there! I'm @AmeerTarabieh, 
-24-year-old individual originally from Sakhnin and currently residing in Jerusalem. 
-I'm a third-year computer science student at Hadassah-Jerusalem College. 👋
-<!---
-AmeerTarabieh/AmeerTarabieh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I am Ameer Tarabieh, a passionate Computer Science student with a strong foundation in both frontend and backend development. I have successfully completed all compulsory courses as part of my Bachelor's degree in Computer Science at Hadassah Academic College, and I'm eager to apply my knowledge in real-world scenarios. My expertise spans across various programming languages, including C++, Java, Python, and JavaScript, enabling me to tackle complex challenges with versatile solutions. I am actively involved in several startup ventures, contributing to projects ranging from medical technology to cybersecurity and sustainable energy solutions. These experiences have honed my problem-solving skills and adaptability in fast-paced, entrepreneurial environments. As a continuous learner, I stay updated with industry trends and opportunities, as demonstrated by my subscription to the Asper-HUJI 2024 program. I am excited to collaborate, innovate, and build solutions that can make a meaningful impact on both local and global scales.
